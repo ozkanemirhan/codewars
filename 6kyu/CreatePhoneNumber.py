@@ -6,7 +6,7 @@
 
 # Don't forget the space after the closing parentheses!
 
-# My solution
+# My solution:
 def create_phone_number(numbers):
     if len(numbers) != 10:
         raise ValueError()
